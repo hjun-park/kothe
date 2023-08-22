@@ -52,6 +52,6 @@ dijkstra(start)
 #   - 도달할 수 있는 경우에는 거리 출력
 for i in range(1, v + 1):
     if distance[i] == INF:
-        print("INFINITY")
+        print("INF")
     else:
         print(distance[i])

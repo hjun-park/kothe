@@ -15,13 +15,13 @@ class KoTheTest {
 		}
 
 		// 1d array
-		int[] distance = new int[N + 1];			// 1d array
+		long[] distance = new long[N + 1];			// 1d array
 
-		final int INF = (int) 1e9;
-		Arrays.fill(distance, INF);
+		// 배열을 최댓값으로 채우기
+		Arrays.fill(distance, Integer.MAX_VALUE);
 
-
-		Assertions.assertEquals(INF, distance[1]);
+		Assertions.assertEquals(Integer.MAX_VALUE, distance[1]);
 	}
+
 
 }

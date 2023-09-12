@@ -14,6 +14,7 @@
 |이름|문제|날짜|재풀이|
 |:---:|:---:|:---:|:---:|
 |@hjun-park|[표현가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|2023-09-05| |
+|@hjun-park|[다리 놓기](https://www.acmicpc.net/problem/1010)|2023-09-12| 책버전으로 다시풀기 (p440) |
 
 
 <br />
